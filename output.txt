@@ -1,0 +1,6 @@
+X coordinate:
+1
+Y coordinate:
+2
+Z coordinate:
+3
