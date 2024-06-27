@@ -1,0 +1,9 @@
+Particle Count : 3104
+xMin: 0.0025
+xMax: 0.0975
+yMin: 0.00688125
+yMax: 0.07811875
+zMin: 0.0025
+zMax: 0.00688125
+Average Density : 1050.3865979381444
+Average Diameter : 0.005185567010309396
