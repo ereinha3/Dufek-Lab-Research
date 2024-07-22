@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dufek-lab",
+  "private_key_id": "31d54483b85ba772af1a48c1f2210d29153ac5df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDRG1K6OsM8W/mU\n1FES+F4mzIkfEspyR+ep1oxS8sbn2rhQImILSx05l6WpybqRs4fJhAgho2MdLmUU\nyt65B6Gtch1Hx3inMHdMR5xQCj1oWEmwkzvcW3jBDpFEM+gCesa0nWJe88JJiwaV\nOqFMikWG4a5giHcXY0c3DIaCVyM9Q2oTwisIdg+lMUtaBzusR6SFtsJMT1T5278a\njoHuTDvG7yGwV7hfwqFK0D4lgSCIhDJXjplRaAVWZj2tnIc3MJvl7dpixO/K5PEK\nFqSVPlRQpo7yBNx3QbFNpbqobpiu+ds8injX74gJ1s1q2MLJ5DzTFCo3AuBzMnXr\npMEz2w2jAgMBAAECggEAShEJCQDWdbNIYLChtPv3cXvCWBjST49rnctqcdkfnjFp\nVq0PGFv3UpaF7fGP3Zr/TmAvdybF7SipUieXo2dyG5sPhwS/Fk1C/GhjFDDEVojr\nNRm5utBFofBUgRl3pSUy6/fRR7vExkLxxnr5dkCF5wRaPUQpFsYqC/QqUtGloEV0\nTe4Ci/Rbse/z8NeLXN4+CvV10ywLs8i1H5J1o49b35Wd7pqf8cNd+rJKvGXzQtYM\nmlwoMXhaUSJPP5yJ8uupFfdtGerMHo+fQsIzXn3XT9bDCF797z4SCtHjYyfrqFjZ\n+2scKcJUY+1MvNV3MJZUJCnQcyjMxBRorOKaLAF8FQKBgQDnqukAY4F6Hkf38aH9\nAcwhnVqAnfHq7cmm1DtWdvHD6GmNamOKCP5PtArLJGVVdkuZjYb4uoa0O9bQ/UCl\nxbtR7pt/bKN423xmnzc+G8DBcsMIvokq1PhJb0mf0cdNeXGVE75LQdMJnV9GhuhE\nMNt8/rAhnZ/bUKn7tSHF+IfL9wKBgQDnEct4UL8DfA17kDC/unYCY876eK/teHHJ\nT4hLkC12o+WOZ2VUFAWGZWmFIHnRGEh474RPXcPprsVCZasM6pEyBGraeaWkHPwU\n5fDW+xQ5iZV64oU2l1o0L9BYCGGTj7EyEZrCqkrxQZDNKk6ptLbkGHTbDEvmifJm\nLsclLQDotQKBgGWCMc4Fy7nigs5VhhECNJuWAw3QJyw1POJopAdi3tRkhbt9Hlhh\nUG1ECmawb+ZeiwmhRb6+nD9k6N9x2F3KoiVoU6IlzAsswPmGUgJYzsD0tBikxB2M\na65hoPTySk3cJLSZjgwTr5DK7/BLNIKMld/TCQHxuxWx5olv+HhySa5JAoGAXe40\n6S7hxzfZfz5JItdYe3Y5QEZpNb59etkyzYzJfm33tiC/5yLQcCavc2eVPXOCmm67\nOUwjhM3/8BLGKtT7uvpiuXcz53fE3XXvpmSgfxc3xaFph5yVFZvONMsLZ2HFJVZU\ntAdnuZTumQg2u/PzWNu8PQNNo2S2PeWMHMejk/UCgYBT/RNx6nOihVgYugWAWYaf\n6YF3vVFGoKShHmoOB78fYRqpompejQacu/IfAiAJ+9EJSQ9bhDErRS/pdvTFQ5lD\nCoWvW79bdI2Ii+x98I/3VKW02rCzUaNchMGCkaA4JK5oxjOL6/DP28NUuRGbgKh9\nVyYuCiCOUnkRa9hRa4p63g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-account@dufek-lab.iam.gserviceaccount.com",
+  "client_id": "111666410025976031822",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-account%40dufek-lab.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
